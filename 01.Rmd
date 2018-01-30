@@ -13,7 +13,7 @@ pilot, script, nlp, information extraction
 The success of an entertainment studio is based on finding content that is unique and original. This process usually starts with a script being pitched to a studio. It is normal for content creators to submit hundreds of scripts per week to a studio. If the studio likes what it sees, it greenlights the project and decides to fund it. 
 The script is like the backbone of a movie or television series, and it forms a main storyline. They usually contain all details of the project, like dialogues of characters, setting of the scene, movements and actions of characters, and any other information that needs to be conveyed in addition to spoken content.
 Script reading has traditionally been a manual process. Typically a group of executives will manually read a script and gauge what they think the potential market appeal of a project would be. They then make estimates on what the cost of production and bringing that piece of content to market is, and finally decide on whether the cost is worth the expected return. 
-Due to it being a highly manual process, the script intake tends to be laborious, inefficient, slow, prone to error, and susceptible to human bias.
+Due to it being a highly manual process, the script intake tends to be laborious, inefficient, slow, prone to error, and susceptible to human bias. [@saxenian1994]
 
 ## Old School Hollywood meets Silicon Valley
 
