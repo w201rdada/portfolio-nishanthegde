@@ -30,10 +30,6 @@ knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ
 
 My first big idea is an automatic script parsing tool that can be used by studios to improve their greenlighting.
 
-### Abstract of my second cool idea {-}
-
-I don't have one yet. 
-
 ## About the author {-}
 
 Wannabe data scientist.
