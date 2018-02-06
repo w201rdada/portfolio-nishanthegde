@@ -9,7 +9,7 @@ git checkout master
 
 cd /Users/nhegde/portfolio-nishanthegde/ \
 && rm -rf docs/ \
-&& mv -u -T _book/ docs/
+&& mv _book/ docs/
 
 # assuming you've already built it, replace old docs with new _books build
 echo "User-agent: *
@@ -19,6 +19,7 @@ Disallow: /" > docs/robots.txt
 git add . \
 && git commit -m "deploy" || true \
 && echo '
+
 Ready to push with authorization.
 In Rstudio use menu "Tools > Shell..." and enter:
 
