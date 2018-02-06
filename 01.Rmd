@@ -5,7 +5,8 @@ hollywood, script pars, greenlight, studio, nlp, cluster, pattern, information e
 
 ## Why parse scripts?
 
-The success of an entertainment studio is based on finding content that is unique and original. This process usually starts with a script being pitched to a studio. It is normal for content creators to submit hundreds of scripts per week to a studio. If the studio likes what it sees, it greenlights the project and decides to fund it. The script is like the backbone of a movie or television series, and it forms a main storyline. They usually contain all details of the project, like dialogues of characters, setting of the scene, movements and actions of characters, and any other information that needs to be conveyed in addition to spoken content. 
+The success of an entertainment studio is based on finding content that is unique and original. This process usually starts with a script being pitched to a studio. [@hybrid]
+It is normal for content creators to submit hundreds of scripts per week to a studio. If the studio likes what it sees, it greenlights the project and decides to fund it. The script is like the backbone of a movie or television series, and it forms a main storyline. They usually contain all details of the project, like dialogues of characters, setting of the scene, movements and actions of characters, and any other information that needs to be conveyed in addition to spoken content. 
 
 Gathering information from scripts has traditionally been a manual process. Typically, a group of studio executives will meet after reading a script and use their "gut feeling" to assess what the potential market appeal of a project would be. They then make estimates on what the cost of production and marketing would be, and finally decide on whether that cost is worth the expected return. 
 

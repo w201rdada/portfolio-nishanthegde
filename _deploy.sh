@@ -17,7 +17,7 @@ Disallow: /" > docs/robots.txt
 
 # site will be public so dissuade robots and search engines from crawling your page
 git add . \
-&& git commit -m "deploy liquid hot magma2" || true \
+&& git commit -m "deploy liquid hot magma3" || true \
 && echo '
 
 Ready to push with authorization.
