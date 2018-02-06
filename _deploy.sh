@@ -7,7 +7,7 @@
 # make sure you're on the master branch
 git checkout master
 
-cd /home/rstudio/ \
+cd /Users/nhegde/portfolio-nishanthegde/ \
 && rm -rf docs/ \
 && mv -u -T _book/ docs/
 
