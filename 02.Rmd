@@ -27,7 +27,6 @@ The economy of "moving stuff" can be thought of as trying to hail a car through 
 
 This solution will be implemented through a matching app. Mobile and dektop versions of the app will be available. The success of our network will depend on a rigorous vetting process for carriers. Safety records from insurance companies and regulators will need to be provided in order for carriers to join. Ongoing metrics on performance, like on-time pickup and delivery, will be tracked.
 
-
 ## Vision
 
 We are trying to make headway in a highly fragmented business. Growing a strong network of carriers and shippers will be difficult. You can have the best app in the world, but unless you can offer a significant amount of volume to carriers, you're not going to be able to get good rates with those carriers. And unless shippers get a better rate, they have very little or no incentive to switch over from using existent companies. Performance metrics, reduced paper load, immediate payments and better tracking are all perks that will be secondary to getting a preferential rate from carriers. We do believe however, that once said network is established, there is a very high opportunity for two-sided network effects to kick in. To kick start the flywheel we might consider subsidizing carrier fees. 
