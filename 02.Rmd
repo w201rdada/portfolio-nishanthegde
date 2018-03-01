@@ -28,7 +28,7 @@ The economy of "moving stuff" can be thought of as trying to hail a car through 
 This solution will be implemented through a matching app. Mobile and dektop versions of the app will be available. The success of our network will depend on a rigorous vetting process for carriers. Safety records from insurance companies and regulators will need to be provided in order for carriers to join. Ongoing metrics on performance, like on-time pickup and delivery, will be tracked.
 
 I am adding this section to test out merge and squash commit - first commit.
-
+I am adding this section to test out merge and squash commit - second commit.
 
 ## Vision
 
