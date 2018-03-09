@@ -9,6 +9,8 @@ The trucking industry is the lifeblood of moving goods around the country. It re
 
 Yet the trucking industry is fraught with inefficiency. This has introduced high costs since it becomes mandatory for players to address this inefficiency.
 
+Lets test this out
+
 The industry is broken down into three roles. Understanding the roles will help highlight where these inefficiencies lie:
 1. Shippers (the demand): These are companies that need their product moved - from small manufacturers all the way up to large brands like Nike, Ralph's, etc.
 2. Carriers (the supply): These are the fleets and the independent truck drivers. The carrier market is extremely fragmented. Most are independently owned and operated - 90% of carriers have fewer than 6 trucks in their fleet.
